@@ -1,0 +1,6 @@
+[submodule "migu-AI"]
+	path = migu-AI
+	url = https://github.com/migucn/migu-AI
+[submodule "Hugo"]
+	path = Hugo
+	url = https://github.com/migucn/migu-AI
