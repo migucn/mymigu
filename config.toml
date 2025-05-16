@@ -22,3 +22,2087 @@ publishDir = "public"
 
 [markup.goldmark.renderer]
     unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true
+    textPreLoad = "Hugo 网址导航主题"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+
+[markup.goldmark.renderer]
+    unsafe = true
+languageCode = "zh-CN"
+title = "WebStack-Hugo 网址导航"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author = "Your Name"
+    description = "WebStack-Hugo 网址导航 | Hugo 主题"
+    upload = ""
+    about = ""
+    repository
