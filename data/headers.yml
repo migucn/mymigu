@@ -1,15 +1,15 @@
 - item: 首页
-  icon: fa fa-home
+  icon: 米谷导航
   link: "./"
 
 - item: 作者
-  icon: 米谷
+  icon: 米谷导航
   link:
   link: URL_ADDRESSiyan.cc/
   link: https://weiyan.cc/
 
 - item: 关于
-  icon: fa fa-cog
+  icon: 米谷导航
   link: ""
   list:
     - name: 教程
