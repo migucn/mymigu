@@ -12,12 +12,20 @@ jobs:
         with:
           hugo-version: '0.127.0'
 
-      - name: Build Hugo site
-        run: hugo --minify
+      - name: Build
+        run: hugo --minify --destination ./docs
 
-      - name: Upload to Supabase Storage
-        uses: supabase/storage-cli-action@v1
-        with:
+      - name: Show Build Result
+        run: ls -R ./docs  # 用于验证构建结果
+
+      - name: Deploy to Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          npm install -g supabase
+          supabase login --key $SUPABASE_SERVICE_KEY
+          supabase storage upload docs/* static-assets --project-ref $SUPABASE_URL
           supabase-url: ${{ secrets.SUPABASE_URL }}
           supabase-key: ${{ secrets.SUPABASE_ANON_KEY }}
           local-path: './public'

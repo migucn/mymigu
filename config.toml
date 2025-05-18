@@ -41,7 +41,8 @@ publishDir            = "public"				# 站点静态文件保存目录
     logoExpandDark    = "assets/images/bi-expand-light.png"
     logoCollapseLight = "assets/images/bi.png"
     logoCollapseDark  = "assets/images/bi.png"
-    
+    publishDir = "docs"
+    baseURL = "https://migucn.github.io/mymigu/"
 [markup.goldmark.renderer]
     unsafe = true
 

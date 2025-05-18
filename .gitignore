@@ -1,0 +1,6 @@
+# 删除或注释掉这行
+# /public/
+
+# 新增忽略docs目录的依赖文件
+/docs/resources/
+/public/
